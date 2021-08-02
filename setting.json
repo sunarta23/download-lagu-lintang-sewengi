@@ -2,7 +2,7 @@
   "name-web":"Free Download MP3 - All MP3",
   "author":"Zaid",
   "remove-comment-html":true,
-  "target":"https://mqtt.growcomputer.io",
+  "target":"http://mqtt.growcomputer.io",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
