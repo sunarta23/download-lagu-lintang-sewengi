@@ -1,0 +1,4 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://download-lagu-lintang-sewengi.herokuapp.com/sitemaps.xml
